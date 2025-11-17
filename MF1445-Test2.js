@@ -24,7 +24,7 @@ export default [
     ],
     correctAnswer: "Conocimiento, comprensión y aplicación.",
     justification:
-      "Las pruebas objetivas son ideales para evaluar los **tres primeros escalones** de la pirámide de Bloom, que representan los aprendizajes más sencillos: **Conocimiento**, **Comprensión** y **Aplicación** de contenidos teóricos.",
+      "Las pruebas objetivas son ideales para evaluar los tres primeros escalones de la pirámide de Bloom, que representan los aprendizajes más sencillos: Conocimiento, Comprensión y Aplicación de contenidos teóricos.",
   },
   {
     question:
@@ -50,7 +50,7 @@ export default [
     ],
     correctAnswer: "Ensayo breve.",
     justification:
-      "Para los aprendizajes complejos (análisis, síntesis, evaluación) se utilizan pruebas que requieren que el alumno elabore la respuesta, como las pruebas de **ensayo** (breve o largo), el ejercicio interpretativo y las pruebas orales.",
+      "Para los aprendizajes complejos (análisis, síntesis, evaluación) se utilizan pruebas que requieren que el alumno elabore la respuesta, como las pruebas de ensayo (breve o largo), el ejercicio interpretativo y las pruebas orales.",
   },
   {
     question:
@@ -64,7 +64,7 @@ export default [
     correctAnswer:
       "Facilitan la capacidad para analizar e interpretar datos y relaciones.",
     justification:
-      "Los ítems de respuesta breve son adecuados para medir conocimientos de datos simples e ideas fundamentales, e impiden la adivinación. La capacidad de **analizar e interpretar datos** son habilidades más complejas que se evalúan con pruebas de elaboración, no con ítems de respuesta breve.",
+      "Los ítems de respuesta breve son adecuados para medir conocimientos de datos simples e ideas fundamentales, e impiden la adivinación. La capacidad de analizar e interpretar datos son habilidades más complejas que se evalúan con pruebas de elaboración, no con ítems de respuesta breve.",
   },
   {
     question:
@@ -77,7 +77,7 @@ export default [
     ],
     correctAnswer: "Todas son correctas.",
     justification:
-      "Los ítems de selección múltiple son versátiles y se utilizan dentro de las pruebas objetivas para evaluar los tres primeros niveles de aprendizaje sencillo: **conocimiento, comprensión y aplicación** de los contenidos teóricos.",
+      "Los ítems de selección múltiple son versátiles y se utilizan dentro de las pruebas objetivas para evaluar los tres primeros niveles de aprendizaje sencillo: conocimiento, comprensión y aplicación de los contenidos teóricos.",
   },
   {
     question:
@@ -90,7 +90,7 @@ export default [
     ],
     correctAnswer: "Clave de respuestas.",
     justification:
-      "La **Clave de respuestas** es el elemento de la estructura de la prueba objetiva que contiene la respuesta correcta a cada uno de los ítems, necesaria para la corrección.",
+      "La Clave de respuestas es el elemento de la estructura de la prueba objetiva que contiene la respuesta correcta a cada uno de los ítems, necesaria para la corrección.",
   },
   {
     question:
@@ -103,7 +103,7 @@ export default [
     ],
     correctAnswer: "Todas son correctas.",
     justification:
-      "El ejercicio interpretativo permite evaluar una amplia gama de habilidades cognitivas complejas, incluyendo la **capacidad para interpretar datos, elaborar hipótesis, diagnosticar fallos** y solucionar planteamientos difíciles.",
+      "El ejercicio interpretativo permite evaluar una amplia gama de habilidades cognitivas complejas, incluyendo la capacidad para interpretar datos, elaborar hipótesis, diagnosticar fallos y solucionar planteamientos difíciles.",
   },
   {
     question:
@@ -117,7 +117,7 @@ export default [
     correctAnswer:
       "Todos los ítems tienen que tener el mismo valor, no hay que dar más valor a unos que a otros.",
     justification:
-      "Es incorrecto que todos los ítems deban tener el mismo valor, ya que se debe **asignar un porcentaje de importancia** a cada uno de ellos. Este peso se establece en función de la importancia relativa de cada indicador dentro de la puntuación total.",
+      "Es incorrecto que todos los ítems deban tener el mismo valor, ya que se debe asignar un porcentaje de importancia a cada uno de ellos. Este peso se establece en función de la importancia relativa de cada indicador dentro de la puntuación total.",
   },
   {
     question:
@@ -130,6 +130,6 @@ export default [
     ],
     correctAnswer: "Todas son correctas.",
     justification:
-      "Para puntuar la prueba se utilizan métodos como la **suma de aciertos** (para ítems cerrados con muchas alternativas o preguntas de desarrollo) y la **suma de aciertos con corrección por adivinación** (para ítems cerrados con pocas alternativas), utilizando la fórmula mencionada para el ajuste.",
+      "Para puntuar la prueba se utilizan métodos como la suma de aciertos (para ítems cerrados con muchas alternativas o preguntas de desarrollo) y la suma de aciertos con corrección por adivinación (para ítems cerrados con pocas alternativas), utilizando la fórmula mencionada para el ajuste.",
   },
 ];
