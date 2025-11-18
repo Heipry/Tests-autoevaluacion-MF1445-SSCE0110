@@ -172,7 +172,8 @@
                     const mod4e = await import('./MF1445-Eval4.js');
                     questions = [...questions, ...mod4e.default];
                 }
-                if (testKey == 'evalfinal' || testKey === 'all' || testKey === 'eval') {
+                if (testKey == 'evalfinal') {
+                    //En este test la evlauación final repite muchas preguntas de las evaluaciones anteriores así que no la agregamos al conjunto general
                     const mod5e = await import('./MF1445-EvalFinal.js');
                     questions = [...questions, ...mod5e.default];
                 }
