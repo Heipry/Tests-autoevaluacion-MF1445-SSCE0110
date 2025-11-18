@@ -30,7 +30,7 @@ export default [
   },
   {
     question:
-      "En un curso de mecanografía el objetivo es realizar 300 pulsaciones por minuto sin cometer ningún error... Si lo evaluamos con respecto al criterio:",
+      "En un curso de mecanografía el objetivo es realizar 300 pulsaciones por minuto sin cometer ningún error. El nivel de partida de uno de los componentes del grupo es cero y ha obtenido los mejores resultados (200 pulsaciones por minuto y cero faltas). Si lo evaluamos con respecto al criterio:",
     options: [
       "Es el mejor de la clase.",
       "Ha progresado muchísimo.",

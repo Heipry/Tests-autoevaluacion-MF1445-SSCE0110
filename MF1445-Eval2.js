@@ -39,7 +39,7 @@ export default [
     question: "¿Qué es una tabla de especificaciones?:",
     options: [
       "Es la tabla que sirve de base para discriminar las categorías de los objetivos en el campo afectivo...",
-      "Se trata de una herramienta de evaluación que clasifica las destrezas...",
+      "Se trata de una herramienta de evaluación que clasifica las destrezas entendiéndolas como aquellas conductas que se realizan con precisión.",
       "Se trata de una herramienta de evaluación que representa la forma en que la prueba será diseñada y su función consiste en determinar los aspectos a evaluar asignándoles una puntuación congruente con los niveles de conocimiento estipulados en el programa formativo.",
       "Es la tabla que mostrará la calidad de la prueba.",
     ],
@@ -52,7 +52,7 @@ export default [
     question:
       "¿Cuál es el último paso para elaborar la tabla de especificaciones?:",
     options: [
-      "Dar un peso o puntuación a cada una de las partes de estos contenidos...",
+      "Dar un peso o puntuación a cada una de las partes de estos contenidos dependiendo de la importancia que tengan, el tiempo dedicado o cualquier otro aspecto que se considere relevante.",
       "Jerarquizar los ítems en función del nivel de conocimiento pretendido en los objetivos o criterios evaluativos seleccionados.",
       "Simplificar la totalidad de los objetivos, suprimiendo aquellos que se repitan o estén implicados en otros.",
       "Determinar el número total de ítems que tendrá la prueba y los que corresponderán a cada una de las partes.",
