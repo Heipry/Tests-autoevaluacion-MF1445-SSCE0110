@@ -86,9 +86,9 @@ export default [
       "Tienen la finalidad de ofrecer al alumnado la posibilidad de compartir sus opiniones relacionadas con la formación y añadir algunas observaciones.",
       "Constituyen unos instrumentos de recogida de información que pueden ser más o menos sistematizados.",
       "Suele incluir valoraciones, pensamientos, emociones, etc. sobre las actividades, las interacciones, etc. que se producen en el desarrollo de la acción formativa.",
-      "Son correctas b) y c).",
+      "Suele incluir valoraciones, pensamientos, emociones sobre las actividades e interacciones en el desarrollo de la acción formativa constituyendo unos instrumentos de recogida de información más o menos sistematizados.",
     ],
-    correctAnswer: "Son correctas b) y c).",
+    correctAnswer:"Suele incluir valoraciones, pensamientos, emociones sobre las actividades e interacciones en el desarrollo de la acción formativa constituyendo unos instrumentos de recogida de información más o menos sistematizados.",
     justification:
       "Los diarios son instrumentos de recogida de información que pueden ser más o menos sistematizados y que suelen incluir valoraciones, pensamientos y emociones sobre las actividades e interacciones del curso, favoreciendo la reflexión.",
   },
