@@ -1,138 +1,125 @@
 export default [
-  // Preguntas sobre Pruebas de Ejecución, Diseño de Prácticas y Escalas de Calificación (MF1445 Test 3).
+  // Preguntas sobre Pruebas de Ejecución, Diseño de Prácticas y Escalas de Calificación (MF1445 Test 3 - REPETIDO).
   {
-    question: "¿Qué son las pruebas de ejecución?:",
+    question:
+      "En la elaboración de las Escalas de Calificación hay que seguir una serie de normas. Elige la opción incorrecta:",
     options: [
-      "Son aquellas en las que se combinan pruebas escritas y pruebas mixtas.",
-      "Son aquellas que se relacionan directamente con aspectos vinculados a la ocupación. No son transferibles a otros contextos laborales.",
-      "Son aquellas en las que hay que responder a los supuestos concretos de trabajo planteados.",
-      "Son aquellas en las que las personas que van a ser evaluadas simulan situaciones de trabajo en las que haya que manejar equipamientos y/o materiales.",
+      "Los rasgos y características deben ser directamente observables.",
+      "Las preguntas deben ser unívocas, no deben tener varias interpretaciones.",
+      "El número de categorías debe oscilar entre 3 y 7.",
+      "Es mejor utilizar categorías pares que nos permiten diferenciar resultados buenos de malos.",
     ],
     correctAnswer:
-      "Son aquellas en las que las personas que van a ser evaluadas simulan situaciones de trabajo en las que haya que manejar equipamientos y/o materiales.",
+      "Es mejor utilizar categorías pares que nos permiten diferenciar resultados buenos de malos.",
     justification:
-      "Las pruebas de ejecución evalúan las habilidades prácticas simulando situaciones de trabajo reales, incluyendo el manejo de equipamientos y materiales.",
+      "Se deben establecer niveles impares para ajustar a la normalidad en la distribución. Los niveles pares se suelen reservar para cuando el objetivo es forzar la diferenciación entre buenos y malos resultados.",
   },
   {
     question:
-      "¿Cuál es el primer paso que hay que dar en el proceso de diseño de pruebas prácticas?:",
+      "En la elaboración de las Listas de Cotejo (para evaluar destrezas) es conveniente añadir los actos que representan los errores más comunes de los alumnos. Para ello hay que tener en cuenta:",
     options: [
-      "Describir el tipo de prácticas que se llevarán a cabo. Esto dependerá de la modalidad de impartición de la acción formativa.",
-      "Definir las competencias profesionales que queremos evaluar.",
-      "Especificar la forma en que se va a evaluar cada prueba, determinando los criterios de evaluación, los instrumentos a utilizar y la forma de puntuar.",
-      "Establecer una puntuación concreta para cada criterio de forma que sepamos cómo interpretar los datos recogidos.",
+      "Deben ser limitados en cantidad.",
+      "Estar ordenados de acuerdo a la secuencia en que se espera que ocurran.",
+      "Se deben identificar claramente.",
+      "Todas son correctas.",
     ],
-    correctAnswer:
-      "Definir las competencias profesionales que queremos evaluar.",
+    correctAnswer: "Todas son correctas.",
     justification:
-      "El primer paso fundamental en el diseño de pruebas prácticas es definir las competencias profesionales que se pretenden evaluar, ya que esto establece el marco para todo el proceso posterior de diseño.",
-  },
-  {
-    question: "¿Qué son las listas de cotejo?:",
-    options: [
-      "Son listados que se establecen según la importancia que se quiera asignar a cada uno de los indicadores.",
-      "Son listados enumerativos de conductas abiertas donde se debe anotar si el comportamiento o la característica a observar se da o no se da.",
-      "Son listados que se establecen a partir de los indicadores de evaluación y su conversión de cualificación a calificación.",
-      "Son aquellos listados que establecen un peso relativo en función de su importancia dentro de la actividad.",
-    ],
-    correctAnswer:
-      "Son listados enumerativos de conductas abiertas donde se debe anotar si el comportamiento o la característica a observar se da o no se da.",
-    justification:
-      "Las listas de cotejo son instrumentos de observación que registran la presencia o ausencia (se da/no se da) de conductas o características claramente definidas, siendo útiles para evaluar destrezas específicas.",
+      "Al añadir errores comunes a la lista de cotejo, estos deben ser limitados en cantidad, estar claramente identificados y ordenados de acuerdo a la secuencia de la tarea esperada.",
   },
   {
     question:
-      "¿Cuál de las siguientes es una característica de las escalas numéricas?:",
+      "De las siguientes expresiones relacionadas con la elaboración de las pruebas prácticas elige la opción que consideres que es incorrecta:",
     options: [
-      "Se usan cuando la intensidad del rasgo observado se expresa en categorías.",
-      "Se utilizan cuando en las categorías de la escala se describen de forma breve pero lo más exacta posible, la característica o el rasgo a observar.",
-      "Delimitan muy bien los ítems que van a ser evaluados y dan unas instrucciones de realización muy específicas ya que la persona que evalúa no tiene delante a la persona evaluada mientras realiza la práctica.",
-      "Se utilizan cuando la intensidad del comportamiento o destreza observada se expresa en números.",
+      "El punto de partida para la elaboración de pruebas prácticas es el referente ocupacional del certificado de profesionalidad.",
+      "Las pruebas prácticas las organizaremos por unidades de competencia con el fin de discriminar las unidades que domina la persona y las que no.",
+      "La calidad de la prueba evaluativa se basa en una buena formulación de los ítems.",
+      "La construcción del ítem es igual para cualquier tipo de evaluación que queramos realizar (desempeño, producto).",
     ],
     correctAnswer:
-      "Se utilizan cuando la intensidad del comportamiento o destreza observada se expresa en números.",
+      "La construcción del ítem es igual para cualquier tipo de evaluación que queramos realizar (desempeño, producto).",
     justification:
-      "Las escalas numéricas se utilizan específicamente cuando la intensidad de la destreza o el comportamiento que se observa se registra mediante una puntuación en números.",
-  },
-  {
-    question: "¿Qué son las escalas de Likert?:",
-    options: [
-      "Son escalas psicológicas que se utiliza en cuestionarios. Son muy utilizadas en las encuestas de investigación.",
-      "Son escalas métricas que se utiliza en cuestionarios. Son muy utilizadas en las encuestas de investigación.",
-      "Son escalas psicométricas que se utiliza en cuestionarios. Son muy utilizadas en las encuestas de investigación.",
-      "Son escalas numéricas que se utiliza en cuestionarios. Son muy utilizadas en las encuestas de investigación.",
-    ],
-    correctAnswer:
-      "Son escalas psicométricas que se utiliza en cuestionarios. Son muy utilizadas en las encuestas de investigación.",
-    justification:
-      "Las escalas de Likert son escalas psicométricas que se utilizan en cuestionarios de investigación para medir actitudes, pidiendo al evaluado que se posicione en un grado de acuerdo o desacuerdo.",
+      "Es incorrecto. La elaboración de ítems no es igual; por ejemplo, el ítem de desempeño se centra en la acción, mientras que el ítem de producto se enfoca en las características del resultado final.",
   },
   {
     question:
-      "¿Cuál es el primer paso a seguir para elaborar una escala de Likert?:",
+      "En la evaluación del desempeño la estructura para la redacción de los ítems es:",
     options: [
-      "Crear ítems relacionados con la actitud que se desea medir (se tratará de enunciados afirmativos y negativos sobre la actitud a puntuar).",
-      "Los grupos de aprendizaje que han tenido claro desde el inicio los objetivos a alcanzar, han tenido rendimientos finales más altos que los obtenidos por los grupos que no conocían los objetivos o los conocían de una manera muy vaga.",
-      "Permiten detectar si en algún momento la actividad del aula ha perdido los objetivos como referentes o el alumnado no está llegando.",
-      "Permiten introducir mejoras relacionadas con la duración, eliminación, ampliación o modificación de contenidos, actividades, etc.",
+      "Acción + objeto + condición.",
+      "Acción + condición + objeto.",
+      "Objeto + acción + condición.",
+      "Objeto + condición + acciona.",
     ],
-    correctAnswer:
-      "Crear ítems relacionados con la actitud que se desea medir (se tratará de enunciados afirmativos y negativos sobre la actitud a puntuar).",
+    correctAnswer: "Acción + objeto + condición.",
     justification:
-      "El primer paso para elaborar una escala de Likert es crear los ítems (enunciados afirmativos y negativos) que midan la actitud deseada. Estos ítems contarán después con las cinco opciones de respuesta escaladas.",
-  },
-  {
-    question: "¿Qué son las hojas de registro?:",
-    options: [
-      "Son listados enumerativos de conductas abiertas donde se debe anotar si el comportamiento o la característica a observar se da o no se da.",
-      "Se trata de una técnica que resulta ser muy valiosa en la modalidad presencial pero que pierde valor en la formación e-learning aunque dependiendo de los comportamientos a observar y de las herramientas de las que conste la plataforma de teleformación, también podemos hacer uso de ella de forma más puntual.",
-      "Son documentos que describen distintos niveles de calidad de una tarea o producto. Normalmente se usan para trabajos de cierta complejidad como un proyecto, una exposición, etc.",
-      "Son instrumentos de evaluación que recogerán los criterios a seguir y permitirán comprobar el grado en el que la persona evaluada domina las competencias exigidas en la realización de la práctica.",
-    ],
-    correctAnswer:
-      "Se trata de una técnica que resulta ser muy valiosa en la modalidad presencial pero que pierde valor en la formación e-learning aunque dependiendo de los comportamientos a observar y de las herramientas de las que conste la plataforma de teleformación, también podemos hacer uso de ella de forma más puntual.",
-    justification:
-      "Las hojas de registro son instrumentos que se utilizan para la observación de la conducta en tiempo real. Son valiosas en la modalidad presencial y menos en e-learning (aunque pueden usarse puntualmente).",
+      "La estructura para la construcción de indicadores en la evaluación del desempeño (habilidades en situación real o simulada) es: Acción + Objeto + Condición.",
   },
   {
     question:
-      "El planteamiento de las instrucciones de aplicación para cada práctica hay que abordarlo desde dos puntos de vista, ¿Cuáles son?:",
+      "En la redacción de las prácticas se debe tener cuidado con los siguientes aspectos:",
     options: [
-      "El centro de estudios y la persona evaluada.",
-      "Los objetivos y contenidos de la acción formativa.",
-      "La persona evaluadora y la persona evaluada.",
-      "La metodología que estemos empleando en la acción formativa.",
+      "Cada ítem debe referirse a una sola característica a evaluar.",
+      "El lenguaje debe ser comprensible y asequible para las personas que van a ser evaluadas.",
+      "Hay que añadir observaciones, equipamiento, instrucciones,… para que la evaluación sea homogénea en todas las aplicaciones.",
+      "Todas son correctas.",
     ],
-    correctAnswer: "La persona evaluadora y la persona evaluada.",
+    correctAnswer: "Todas son correctas.",
     justification:
-      "Las instrucciones de aplicación de una práctica deben ser claras y específicas, y deben elaborarse pensando en el doble enfoque de la persona evaluadora (que necesita una guía exhaustiva) y la persona evaluada (que necesita claridad en la tarea).",
+      "Una buena redacción requiere: que cada ítem se refiera a una sola característica, usar lenguaje comprensible, e incluir observaciones e instrucciones sobre equipamiento y condiciones de realización para asegurar la homogeneidad.",
   },
   {
     question:
-      "Una vez aplicada una escala de Likert pidiendo a la persona evaluada que se posicione de acuerdo o en desacuerdo ante cada uno de los ítems ¿Qué debemos hacer?:",
+      "Los listados enumerativos de conductas abiertas en las que se indica si el comportamiento o la característica a observar se da o no se da, los conocemos con el nombre de:",
     options: [
-      "Asignar la puntuación a cada una de las personas evaluadas.",
-      "Asignar una puntuación a cada ítem de acuerdo a la dirección positiva o negativa del ítem.",
-      "Seleccionar los ítems a través de pruebas estadísticas para asegurar la fiabilidad.",
-      "Crear ítems relacionados con la actitud que se desea medir (se tratará de enunciados afirmativos y negativos sobre la actitud a puntuar).",
+      "Escalas de calificación.",
+      "Hojas de observación.",
+      "Listas de cotejo.",
+      "Hojas de evaluación de prácticas.",
     ],
-    correctAnswer:
-      "Asignar una puntuación a cada ítem de acuerdo a la dirección positiva o negativa del ítem.",
+    correctAnswer: "Listas de cotejo.",
     justification:
-      "Una vez contestada, el siguiente paso es asignar una puntuación a cada ítem ajustando el valor numérico según la dirección (positiva o negativa) del enunciado, para luego sumar la puntuación total del individuo.",
+      "Las listas de cotejo son listados que se utilizan para registrar la presencia o ausencia (se da o no se da) de conductas u observaciones específicas.",
+  },
+  {
+    question: "Las escalas de calificación pueden ser:",
+    options: ["Numéricas.", "Gráficas.", "Descriptivas.", "Todas son correctas."],
+    correctAnswer: "Todas son correctas.",
+    justification:
+      "Las escalas de calificación, que gradúan la intensidad de un rasgo o habilidad, pueden ser de tres tipos: gráficas, numéricas o descriptivas.",
   },
   {
     question:
-      "¿Cuál de las siguientes afirmaciones respecto a las hojas de registro es correcta?:",
+      "Las siguientes expresiones están relacionadas con las características que debe presentar la información que se comenta al alumnado después de una sesión de observación. Elige la opción incorrecta:",
     options: [
-      "La observación es una técnica muy adecuada para obtener información acerca del alumnado respecto a sus conocimientos previos sobre la materia.",
-      "La observación está especialmente indicada para obtener información a la que también se puede acceder por medios complementarios.",
-      "La observación directa, continuada y sistemática de la actividad educativa es un procedimiento básico para la obtención de información necesaria para evaluar.",
-      "La observación ofrece una información que, por ser real, es valiosa, y, además, no presenta problemas en su realización.",
+      "La información tiene que ser presentada de forma constructiva.",
+      "La información se presentará nada más terminar la sesión de observación.",
+      "Hay que comentar todos los errores cometidos con el fin de que puedan corregirse.",
+      "Es conveniente centrarse en todos los puntos fuertes de la persona con el fin de reforzarlos.",
     ],
     correctAnswer:
-      "La observación directa, continuada y sistemática de la actividad educativa es un procedimiento básico para la obtención de información necesaria para evaluar.",
+      "Hay que comentar todos los errores cometidos con el fin de que puedan corregirse.",
     justification:
-      "Para que la observación sea un procedimiento de evaluación riguroso y básico, debe ser directa, continuada y sistemática. Una observación aislada u ocasional carece de este valor.",
+      "Es incorrecto. Los comentarios deben ser prácticos y constructivos, orientados a los puntos fuertes y limitando las críticas negativas a una o dos como máximo por sesión de observación, para no abrumar al observado.",
+  },
+  {
+    question:
+      "Las escalas de calificación que expresan la intensidad del rasgo observado en categorías se conocen con el nombre de:",
+    options: ["Numéricas.", "Gráficas.", "Descriptivas.", "Todas son correctas."],
+    correctAnswer: "Gráficas.",
+    justification:
+      "Las escalas gráficas se utilizan cuando la intensidad del rasgo observado se expresa a través de categorías graduadas, que suelen ir de menos a más o de más a menos.",
+  },
+  {
+    question:
+      "Para corregir las prácticas de una manera objetiva hay que elaborar una hoja de evaluación; esto nos permite:",
+    options: [
+      "Analizar detenidamente la práctica y ver el conjunto y sus partes.",
+      "Seleccionar los aspectos relevantes.",
+      "Elaborar escalas de medida adecuadas.",
+      "Todas son correctas.",
+    ],
+    correctAnswer: "Todas son correctas.",
+    justification:
+      "La elaboración de una hoja de evaluación para la corrección de prácticas permite: analizar la práctica, seleccionar los aspectos relevantes a observar y elaborar las escalas de medida adecuadas para su puntuación.",
   },
 ];
