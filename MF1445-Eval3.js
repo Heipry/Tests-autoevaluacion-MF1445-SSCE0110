@@ -1,5 +1,4 @@
 export default [
-  // Preguntas sobre Pruebas Prácticas, Instrumentos de Observación y Escalas (MF1445 Evaluación 3).
   {
     question: "¿Qué son las pruebas de ejecución?:",
     options: [
@@ -11,7 +10,7 @@ export default [
     correctAnswer:
       "Son aquellas en las que las personas que van a ser evaluadas simulan situaciones de trabajo en las que haya que manejar equipamientos y/o materiales.",
     justification:
-      "Las pruebas de ejecución evalúan las habilidades prácticas simulando situaciones de trabajo donde es necesario manejar equipamientos, materiales, etc.",
+      "Las pruebas de ejecución son aquellas en las que las personas que van a ser evaluadas simulan situaciones de trabajo en las que haya que manejar equipamientos, materiales, etc.",
   },
   {
     question:
@@ -25,7 +24,7 @@ export default [
     correctAnswer:
       "Definir las competencias profesionales que queremos evaluar.",
     justification:
-      "El diseño de pruebas prácticas debe comenzar por definir las competencias profesionales que se quieren evaluar. Una vez definidas, se identifican los criterios, se describen las prácticas y se especifica la forma de evaluar.",
+      "Los pasos a realizar en el diseño de pruebas prácticas son:\n1. Definir las competencias profesionales que queremos evaluar.\n2. Identificar los criterios de evaluación.\n3. Describir el tipo de prácticas que se llevarán a cabo. Esto dependerá de la modalidad de impartición de la acción formativa.\n4. Especificar la forma en que se va a evaluar cada prueba, determinando los criterios de evaluación, los instrumentos a utilizar y la forma de puntuar.\n5. Crear una hoja de evaluación en la que se vayan recogiendo los datos.\n6. Establecer una puntuación concreta para cada criterio de forma que sepamos cómo interpretar los datos recogidos.",
   },
   {
     question: "¿Qué son las listas de cotejo?:",
@@ -38,11 +37,11 @@ export default [
     correctAnswer:
       "Son listados enumerativos de conductas abiertas donde se debe anotar si el comportamiento o la característica a observar se da o no se da.",
     justification:
-      "Las listas de cotejo son instrumentos de observación simples y útiles para evaluar destrezas que se dividen en actos específicos, registrando únicamente la presencia o ausencia de un comportamiento o característica.",
+      "Este instrumento resulta útil para evaluar aquellas destrezas que pueden dividirse en una serie de actos específicos claramente definidos. Se pueden utilizar tanto en modalidad presencial como en modalidad online.",
   },
   {
     question:
-      "¿Cuál de las siguientes es una característica de las escalas numéricas?:",
+      "¿Cuál de las siguientes es una característica de las escalas numéricas:",
     options: [
       "Se usan cuando la intensidad del rasgo observado se expresa en categorías.",
       "Se utilizan cuando en las categorías de la escala se describen de forma breve pero lo más exacta posible, la característica o el rasgo a observar.",
@@ -52,7 +51,7 @@ export default [
     correctAnswer:
       "Se utilizan cuando la intensidad del comportamiento o destreza observada se expresa en números.",
     justification:
-      "Las escalas numéricas se caracterizan porque la intensidad del comportamiento o destreza observada se registra y expresa mediante una puntuación numérica.",
+      "Las escalas numéricas se utilizan cuando la intensidad del comportamiento o destreza observada se expresa en números.",
   },
   {
     question: "¿Qué son las escalas de Likert?:",
@@ -65,7 +64,7 @@ export default [
     correctAnswer:
       "Son escalas psicométricas que se utiliza en cuestionarios. Son muy utilizadas en las encuestas de investigación.",
     justification:
-      "Las escalas de Likert son escalas psicométricas (o métodos de evaluaciones sumarias, definidas por Rensis Likert en 1932) utilizadas en cuestionarios para que la persona evaluada se posicione en un grado de acuerdo o desacuerdo ante una declaración.",
+      "Rensis Likert en 1932 definió este tipo de escalas también llamado método de evaluaciones sumarias. La persona evaluada debe posicionarse de acuerdo o en desacuerdo con una declaración que forma cada ítem. El número de ítems suele estar entre quince y treinta.",
   },
   {
     question:
@@ -79,7 +78,7 @@ export default [
     correctAnswer:
       "Crear ítems relacionados con la actitud que se desea medir (se tratará de enunciados afirmativos y negativos sobre la actitud a puntuar).",
     justification:
-      "El primer paso es la redacción de los ítems (enunciados afirmativos y negativos) relacionados con la actitud que se desea medir, los cuales contarán después con las cinco alternativas de respuesta (Totalmente de acuerdo a Totalmente en desacuerdo).",
+      "Además, la estructura de cada ítem contará con cinco alternativas que son las siguientes:\n1. Totalmente de acuerdo.\n2. De acuerdo.\n3. Indiferente.\n4. En desacuerdo.\n5. Totalmente en desacuerdo.",
   },
   {
     question: "¿Qué son las hojas de registro?:",
@@ -92,7 +91,7 @@ export default [
     correctAnswer:
       "Se trata de una técnica que resulta ser muy valiosa en la modalidad presencial pero que pierde valor en la formación e-learning aunque dependiendo de los comportamientos a observar y de las herramientas de las que conste la plataforma de teleformación, también podemos hacer uso de ella de forma más puntual.",
     justification:
-      "Las hojas de registro se utilizan para la observación de la conducta en situaciones reales o simuladas. La observación es más valiosa en la modalidad presencial, aunque puede aplicarse en e-learning de forma puntual, dependiendo de las herramientas de la plataforma.",
+      "Las hojas de registro se utilizan para observar la conducta del alumnado en situaciones reales o simuladas. Los resultados de la observación ofrecen una información que, por ser real, es valiosa, pero presenta problemas en su realización.",
   },
   {
     question:
@@ -105,7 +104,7 @@ export default [
     ],
     correctAnswer: "La persona evaluadora y la persona evaluada.",
     justification:
-      "Las instrucciones de aplicación de una práctica deben considerarse desde el punto de vista de la persona evaluadora (que necesita información exhaustiva sobre criterios e instrumentos) y la persona evaluada (que necesita instrucciones claras sobre la realización).",
+      "El planteamiento de las instrucciones de aplicación para cada práctica hay que abordarlo desde dos puntos de vista distintos: la persona evaluadora y la persona evaluada ya que la información que se le presenta a la persona evaluadora será, generalmente, más exhaustiva.",
   },
   {
     question:
@@ -119,7 +118,7 @@ export default [
     correctAnswer:
       "Asignar una puntuación a cada ítem de acuerdo a la dirección positiva o negativa del ítem.",
     justification:
-      "Después de la aplicación, el paso inmediato es asignar una puntuación a cada ítem. Esta puntuación se invierte si el enunciado tiene dirección negativa (Totalmente de acuerdo = -2) o se mantiene si tiene dirección positiva (Totalmente de acuerdo = +2).",
+      "Si la dirección es positiva (por ejemplo, “te resultaron interesantes los materiales complementarios del curso”, las puntuaciones van a ser:\n1. Totalmente de acuerdo (+ 2 puntos).\n2. De acuerdo (+ 1 punto).\n3. Indiferente (0 puntos).\n4. En desacuerdo (- 1 punto).\n5. Totalmente en desacuerdo (-2 puntos).\nSi la dirección es negativa (por ejemplo, “El tutor/a no ha fomentado el debate en los foros del curso”, las puntuaciones van a ser:\n1. Totalmente de acuerdo (- 2 puntos).\n2. De acuerdo (- 1 punto).\n3. Indiferente (0 puntos).\n4. En desacuerdo (+ 1 punto).\n5. Totalmente en desacuerdo (+2 puntos).",
   },
   {
     question:
@@ -133,6 +132,6 @@ export default [
     correctAnswer:
       "La observación directa, continuada y sistemática de la actividad educativa es un procedimiento básico para la obtención de información necesaria para evaluar.",
     justification:
-      "La observación es un procedimiento de recogida de información valioso y básico. Para que tenga rigor evaluativo, debe ser directa, continuada y sistemática, a diferencia de una observación aislada u ocasional, que carecería de valor.",
+      "Una observación aislada u ocasional puede encerrar algún valor, pero carece de rigor.",
   },
 ];

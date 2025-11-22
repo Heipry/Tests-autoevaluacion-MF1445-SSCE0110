@@ -1,17 +1,16 @@
 export default [
-  // Preguntas sobre Planificación, Redacción y Tipos de Pruebas de Evaluación (MF1445 Evaluación 2).
   {
     question:
       "¿Cuál es el primer paso que hay que dar para plantear una prueba de evaluación?:",
     options: [
-      "Elegir el tipo de prueba que más se ajuste al aprendizaje que pretendemos evaluar.",
+      "Elegir el tipo de prueba que más se ajuste al aprendizaje que pretendemos evaluar. Si se eligen varios tipos ponderar la importancia de cada uno de ellos.",
       "Definir los objetivos de aprendizaje.",
       "Construir el instrumento de medida (prueba objetiva, prueba de elaboración).",
       "Realizar el análisis de la prueba y sus elementos.",
     ],
     correctAnswer: "Definir los objetivos de aprendizaje.",
     justification:
-      "El primer paso para elaborar una prueba con rigor y garantía es definir los objetivos de aprendizaje, ya que la prueba debe ser coherente con lo que se pretende medir.",
+      "Una prueba de evaluación no se puede improvisar, sino que debe ser fruto de un trabajo organizado, riguroso y responsable para que pueda tener un mínimo de garantía.",
   },
   {
     question:
@@ -25,7 +24,7 @@ export default [
     correctAnswer:
       "Evitar el uso de trucos o trampas que puedan despistar a la persona que conoce la respuesta.",
     justification:
-      "Una buena práctica en la redacción de ítems es evitar ambigüedades, vocabulario inadecuado, claves reveladoras o el uso de trucos o trampas que impidan a la persona que conoce el tema demostrar su conocimiento.",
+      "Los aspectos a tener en cuenta durante la redacción de una prueba de evaluación son los siguientes:\nEl vocabulario: debe ser adecuado y comprensible para todas las personas, independientemente de su nivel y acorde al utilizado en el desarrollo de las clases.\nSe debe redactar cada pregunta de forma que exija una respuesta correcta, que no sea ambigua y que no pueda interpretarse de diferentes maneras.\nEvitar el uso de trucos o trampas que puedan despistar a la persona que conoce la respuesta.\nEvitar claves reveladoras que permitan contestar a la persona que desconoce el tema.\nCada ítem debe ser independiente de los demás, es decir, la respuesta de una pregunta no debe depender de la respuesta de otra anterior.",
   },
   {
     question:
@@ -33,12 +32,12 @@ export default [
     options: ["Análisis.", "Aplicación.", "Comprensión.", "Conocimiento."],
     correctAnswer: "Conocimiento.",
     justification:
-      "El primer escalón de la pirámide de Bloom (Taxonomía del dominio cognitivo) es el Conocimiento, que implica recordar o reconocer datos, hechos o teorías. Este es el nivel más bajo y la base para alcanzar competencias superiores.",
+      "Al alumnado hay que transmitirle los conocimientos que constituye la base de las competencias necesarias para desempeñar una profesión. En este primer escalón se trata de ver “el conjunto de datos” que tiene el alumnado. Evaluaremos los objetivos/criterios que exigen al alumnado que recuerde o reconozca ideas, hechos, clasificaciones, métodos, teorías, criterios, etc. que ha aprendido.",
   },
   {
     question: "¿Qué es una tabla de especificaciones?:",
     options: [
-      "Es la tabla que sirve de base para discriminar las categorías de los objetivos en el campo afectivo...",
+      "Es la tabla que sirve de base para discriminar las categorías de los objetivos en el campo afectivo es el grado de interiorización de una actitud o valor en la conducta de un alumno/a.",
       "Se trata de una herramienta de evaluación que clasifica las destrezas entendiéndolas como aquellas conductas que se realizan con precisión.",
       "Se trata de una herramienta de evaluación que representa la forma en que la prueba será diseñada y su función consiste en determinar los aspectos a evaluar asignándoles una puntuación congruente con los niveles de conocimiento estipulados en el programa formativo.",
       "Es la tabla que mostrará la calidad de la prueba.",
@@ -46,7 +45,7 @@ export default [
     correctAnswer:
       "Se trata de una herramienta de evaluación que representa la forma en que la prueba será diseñada y su función consiste en determinar los aspectos a evaluar asignándoles una puntuación congruente con los niveles de conocimiento estipulados en el programa formativo.",
     justification:
-      "La tabla de especificaciones es una herramienta esencial de diseño que establece el nivel en que se medirán los contenidos y el peso o puntuación que tendrán en la prueba total, asegurando la congruencia con los objetivos del programa.",
+      "En la tabla de especificaciones debemos establecer:\nEl nivel en que serán medidos los contenidos o aspectos a evaluar.\nEl peso que van a tener en conjunto en relación a la prueba.",
   },
   {
     question:
@@ -60,7 +59,7 @@ export default [
     correctAnswer:
       "Jerarquizar los ítems en función del nivel de conocimiento pretendido en los objetivos o criterios evaluativos seleccionados.",
     justification:
-      "El paso de jerarquización es crucial para asegurar que la prueba no se centre solo en el conocimiento memorístico, sino en capacidades superiores como la comprensión y la aplicación.",
+      "Es conveniente que la prueba se centre más en la capacidad de comprensión y de aplicación para resolver correctamente las distintas situaciones que planteen que en la evaluación de los conocimientos memorísticos.",
   },
   {
     question: "¿Qué son los ítems de evocación?:",
@@ -73,7 +72,7 @@ export default [
     correctAnswer:
       "Son preguntas que exigen al alumnado redactar respuestas concretas.",
     justification:
-      "Los ítems de evocación (o respuesta corta) son aquellos que exigen una respuesta breve y concreta que debe ser redactada por el alumno (no elegida), por ejemplo, completar frases o responder preguntas directas.",
+      "En su elaboración hay que tener en cuenta los siguientes aspectos:\nLa formulación de la pregunta debe conducir a una respuesta breve.\nHay que evitar expresiones idénticas a las de los manuales.\nEs preferible la pregunta directa a la oración incompleta.\nEn repuestas numéricas, debemos indicar el tipo de unidad exigida (metros, litros, etc.).\nNo deben superar el 20% del total de ítems de la prueba.",
   },
   {
     question:
@@ -86,7 +85,7 @@ export default [
     ],
     correctAnswer: "La preparación de la persona que evalúa.",
     justification:
-      "La preparación del evaluador es un factor determinante para el éxito, ya que le permite hacer frente a imprevistos y asegurar que la prueba se desarrolle de manera justa y efectiva.",
+      "Esto ayudará a que la persona que presenta la prueba al alumnado sea capaz de hacer frente a cualquier imprevisto que pueda surgir.",
   },
   {
     question:
@@ -100,7 +99,7 @@ export default [
     correctAnswer:
       "Indicar el material de la prueba y lo que contiene (manual, hoja de respuestas, etc.).",
     justification:
-      "Entre las instrucciones relativas a la prueba, es fundamental indicar el material y el contenido de la misma (tipo de prueba, número de preguntas, tiempo disponible, material auxiliar, etc.).",
+      "Las instrucciones relacionadas con la prueba son:\nIndicar el tipo de prueba que es, si se trata de una prueba objetiva o es de elaboración ya que la manera de enfrentarse a ella es diferente.\nIndicar el material de la prueba y lo que contiene (manual, hoja de respuestas, etc.).\nIndicar si se presentan diferentes opciones de prueba con el fin de que elijan una de ellas. Es importante indicar cómo deben hacerlo y cómo deben indicarlo.\nEn caso de que los ítems requieran alguna ejecución práctica, hay que indicar el material auxiliar que pueden utilizar (lápiz, calculadora, etc.).\nIndicar el número total de preguntas que contiene la prueba y de qué tipo son (Verdadero / Falso, alternativas, ensayo, etc.).\nIndicar el tiempo que tendrán disponible para realizar la prueba y, si fuera necesario, indicar el tiempo estimado para cada una de las preguntas.\nEs importante asignar un tiempo suficiente que permita contestar a toda la prueba, pero que no sobrepase el que se considere lógico para mantener un nivel de atención y concentración óptimo en la realización de la misma.",
   },
   {
     question:
@@ -113,7 +112,7 @@ export default [
     ],
     correctAnswer: "Pruebas de elaboración.",
     justification:
-      "Las pruebas de elaboración (por ejemplo, preguntas de ensayo o resolución de problemas complejos) son las más adecuadas para evaluar los niveles cognitivos más altos de Bloom: Análisis, Síntesis y Evaluación.",
+      "Para evaluar los aprendizajes más complejos, que vienen representados por los escalones de análisis, síntesis y evaluación de la pirámide de Bloom, utilizaremos las pruebas de elaboración.",
   },
   {
     question:
@@ -126,6 +125,6 @@ export default [
     ],
     correctAnswer: "A los ítems.",
     justification:
-      "El protocolo o reactivos se refiere a las preguntas o ítems de la prueba. Deben estar colocados con una dificultad progresiva para optimizar el rendimiento del alumnado.",
+      "Son los ítems, que se presentan en un manual o en diferentes hojas. Las preguntas de la prueba han de estar colocadas de manera que encierren una dificultad progresiva. Suelen colocarse primero las más sencillas y se va incrementando la dificultad hasta llegar al máximo, para finalizar con algunas cuestiones de menor dificultad.",
   },
 ];
