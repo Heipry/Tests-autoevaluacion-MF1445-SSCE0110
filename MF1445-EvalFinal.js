@@ -12,7 +12,7 @@ export default [
     correctAnswer:
       "Constituyen unos instrumentos de recogida de información que pueden ser más o menos sistematizados.",
     justification:
-      "Los diarios son instrumentos de recogida de información cuyo objetivo es favorecer la reflexión, el análisis y la valoración de la práctica docente, pudiendo ser desde una simple relación de actividades hasta documentos estructurados y referidos a campos concretos.",
+      "Los diarios pueden oscilar desde una simple relación o enumeración de actividades realizadas o pueden estar ya estructurados y referidos a campos concretos. El objetivo no es solo una descripción sino que pretende favorecer la reflexión, análisis y valoración de la práctica docente.",
   },
   {
     question: "¿Cuál es la primera fase del paradigma cualitativo?:",
@@ -25,7 +25,7 @@ export default [
     correctAnswer:
       "Observación generalizada: participante, no participante, etc.",
     justification:
-      "Según Castillo Arredondo y Cabrerizo (2003), la primera fase del paradigma cualitativo es la Observación generalizada (participante, no participante, etc.).",
+      "Las fases del paradigma cuantitativo según Castillo Arredondo y Cabrerizo (2003):\n1. Observación generalizada: participante, no participante, etc.\n2. Recopilación de datos.\n3. Intercambio de impresiones.\n4. Elaboración del informe cualitativo.",
   },
   {
     question: "¿En qué consiste la función diagnóstica de la evaluación?:",
@@ -38,7 +38,7 @@ export default [
     correctAnswer:
       "En conocer, por un lado, las posibilidades de cada persona, es decir, los niveles de logro alcanzados y, por otro lado, el estado de aprendizaje de un programa y los problemas que puedan surgir durante su puesta en marcha y funcionamiento.",
     justification:
-      "La función diagnóstica busca un equilibrio al conocer tanto los niveles de logro individuales, como el estado de aprendizaje del programa y los posibles problemas que puedan surgir en su funcionamiento.",
+      "Para que exista un equilibrio cuantitativo-cualitativo, se hace necesario que la evaluación contemple, entre otras, la función diagnóstica con el fin de conocer, por un lado, las posibilidades de cada persona, es decir, los niveles de logro alcanzados y, por otro lado, el estado de aprendizaje de un programa y los problemas que puedan surgir durante su puesta en marcha y funcionamiento.",
   },
   {
     question: "¿Qué son las pruebas de ejecución?:",
@@ -51,7 +51,7 @@ export default [
     correctAnswer:
       "Son aquellas en las que las personas que van a ser evaluadas simulan situaciones de trabajo en las que haya que manejar equipamientos y/o materiales.",
     justification:
-      "Las pruebas de ejecución evalúan las habilidades prácticas simulando situaciones de trabajo real, incluyendo el manejo de equipamientos, materiales, etc.",
+      "Las pruebas de ejecución son aquellas en las que las personas que van a ser evaluadas simulan situaciones de trabajo en las que haya que manejar equipamientos, materiales, etc.",
   },
   {
     question: "¿Qué son las listas de cotejo?:",
@@ -64,7 +64,7 @@ export default [
     correctAnswer:
       "Son listados enumerativos de conductas abiertas donde se debe anotar si el comportamiento o la característica a observar se da o no se da.",
     justification:
-      "Las listas de cotejo son listados de conductas donde el observador anota si la característica o el comportamiento a observar está presente o ausente (se da o no se da).",
+      "Este instrumento resulta útil para evaluar aquellas destrezas que pueden dividirse en una serie de actos específicos claramente definidos. Se pueden utilizar tanto en modalidad presencial como en modalidad online.",
   },
   {
     question:
@@ -78,7 +78,7 @@ export default [
     correctAnswer:
       "Asignar una puntuación a cada ítem de acuerdo a la dirección positiva o negativa del ítem.",
     justification:
-      "El paso inmediato después de la aplicación es asignar una puntuación a cada ítem, invirtiendo la escala si la dirección del enunciado es negativa, para luego sumar las puntuaciones individuales.",
+      "Si la dirección es positiva (por ejemplo, “te resultaron interesantes los materiales complementarios del curso”, las puntuaciones van a ser:\n- Totalmente de acuerdo (+2 puntos).\n- De acuerdo (+1 punto).\n- Indiferente (0 puntos).\n- En desacuerdo (-1 punto).\n- Totalmente en desacuerdo (-2 puntos).\nSi la dirección es negativa (por ejemplo, “El tutor/a no ha fomentado el debate en los foros del curso”, las puntuaciones van a ser:\n- Totalmente de acuerdo (-2 puntos).\n- De acuerdo (-1 punto).\n- Indiferente (0 puntos).\n- En desacuerdo (+1 punto).\n- Totalmente en desacuerdo (+2 puntos).",
   },
   {
     question:
@@ -91,7 +91,7 @@ export default [
     ],
     correctAnswer: "Definir los objetivos de aprendizaje.",
     justification:
-      "Una prueba de evaluación rigurosa comienza por definir los objetivos de aprendizaje, ya que la prueba debe medir aquello para lo que fue diseñada.",
+      "Una prueba de evaluación no se puede improvisar, sino que debe ser fruto de un trabajo organizado, riguroso y responsable para que pueda tener un mínimo de garantía.",
   },
   {
     question:
@@ -99,7 +99,7 @@ export default [
     options: ["Análisis.", "Aplicación.", "Comprensión.", "Conocimiento."],
     correctAnswer: "Conocimiento.",
     justification:
-      "El primer escalón de la pirámide de Bloom (el nivel más básico) es el Conocimiento, que implica recordar o reconocer ideas, hechos, clasificaciones, etc.",
+      "Al alumnado hay que transmitirle los conocimientos que constituye la base de las competencias necesarias para desempeñar una profesión. En este primer escalón se trata de ver “el conjunto de datos” que tiene el alumnado. Evaluaremos los objetivos/criterios que exigen al alumnado que recuerde o reconozca ideas, hechos, clasificaciones, métodos, teorías, criterios, etc. que ha aprendido.",
   },
   {
     question:
@@ -112,7 +112,7 @@ export default [
     ],
     correctAnswer: "Durante la formación de juicios de valor.",
     justification:
-      "Los criterios e indicadores de evaluación se establecen durante la fase de formación de juicios de valor, ya que sirven como patrón para el sistema de calificaciones posterior.",
+      "La tercera fase del proceso evaluativo es la de formación de juicios de valor y en ella, se establecen los criterios e indicadores de evaluación que servirán para crear el sistema de calificaciones.",
   },
   {
     question: "¿Qué son los criterios de evaluación?:",
@@ -125,6 +125,6 @@ export default [
     correctAnswer:
       "Son los aspectos que vamos a tener en cuenta para diferenciar los buenos resultados de los malos, los éxitos de los fracasos.",
     justification:
-      "Los criterios de evaluación son los patrones que se utilizan para determinar los niveles de corrección y diferenciar los éxitos de los fracasos en el rendimiento del alumnado.",
+      "Los criterios de evaluación son los aspectos que vamos a tener en cuenta para diferenciar los buenos resultados de los malos, los éxitos de los fracasos. Tendremos que determinar los niveles de corrección que deben presentar esos criterios para que sirvan como patrón comparativo y poder valorar la información.",
   },
 ];
